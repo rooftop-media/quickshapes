@@ -2,11 +2,29 @@
 
 A library to draw shapes in the text terminal.  
 
+Sections:
+ - Drawing [squares and triangles](#simple-shapes).
+ - Setting up a [coordinate system](#coordinates), drawing lines.
+ - Drawing ellipses. 
 
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
-First, let's make a coordinate drawing system, with 2 for-loops.
+
+
+
+<h2 id="simple-shapes">Drawing squares and triangles
+
+<br /><br /><br /><br />
+<br /><br /><br /><br />
+
+
+
+
+
+<h2 id="coordinates">Coordinate System</h2>
+
+let's make a coordinate drawing system, with 2 for-loops.
 
 The outer for-loop will track each line on the _y-axis_.
 We'll start at max height and loop _down_, since the first line is at the top. 
@@ -19,14 +37,15 @@ we can call with our `x`, `y` coordinates.
 It looks like this:
 
 ```
-            Spaces:
-           01234567
+
  L       5 ........
   i      4 ........
    n     3 ........
     e    2 ........
      s:  1 ........
          0 ........
+Spaces:    01234567
+
 
 
 ```
