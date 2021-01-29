@@ -23,8 +23,8 @@ Hi!  Thanks for reading the QuickShapes blueprint!
 The *software* goal is to display shapes graphed nicely. 
 
 But the goal of the blueprints is to study and document the 
-production process of a NodeJS module.  That means planning, 
-coding, testing, and releasing updated versions.
+production process of a NodeJS module.  
+That means planning, coding, testing, and releasing updated versions.
 
 
 
