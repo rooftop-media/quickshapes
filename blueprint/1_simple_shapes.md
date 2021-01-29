@@ -1,6 +1,6 @@
 <!--  Page Header  -->
 <h3 align="center">
-  📐 &nbsp; - &nbsp; QuickShapes Blueprint &nbsp; - &nbsp; 📐 
+  📐 &nbsp; &nbsp; QuickShapes Blueprint
 </h3>
 
 <!--  Subtitle -->
