@@ -6,7 +6,7 @@
 <!--  Subtitle -->
 <h4 align="center">
   ☜ &nbsp; - &nbsp; <a href="#">0.0. Overview</a> 
-  &nbsp; &nbsp; &nbsp; ☟ Step 0.1. Drawing Simple Shapes ☟ &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.1. Drawing Simple Shapes ☟ &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="#">1.0. Coodinate Grid</a> &nbsp; - &nbsp; ☞
 </h4>
 
