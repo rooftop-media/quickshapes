@@ -7,9 +7,9 @@
 
 <!--  Subtitle -->
 <h4 align="center">
-  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/1_0_SoftwarePlanning.md">1.0. Software Planning</a> 
+  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/1_0_SoftwarePlanning.md">1.0. Software Planning</a> 
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 1.1. Coordinates System ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/1_2_DrawCurves.md">1.2. Drawing Curves</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/1_2_DrawCurves.md">1.2. Drawing Curves</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
