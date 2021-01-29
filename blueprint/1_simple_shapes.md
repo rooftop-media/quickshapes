@@ -1,5 +1,14 @@
-<h3 align="center"> 📐 QuickShapes Blueprint 📐 </h3>
-<h4 align="center"> ☜ - <a href="#">0.0. Overview</a> - - - ☟ Step 0.1. Drawing Simple Shapes ☟ - - - <a href="#">1.0. Coodinate Grid</a> - ☞</h4>
+<!--  Page Header  -->
+<h3 align="center">
+  📐 &nbsp; - &nbsp; QuickShapes Blueprint &nbsp; - &nbsp; 📐 
+</h3>
+
+<!--  Subtitle -->
+<h4 align="center">
+  ☜ &nbsp; - &nbsp; <a href="#">0.0. Overview</a> 
+  &nbsp; &nbsp; &nbsp; ☟ Step 0.1. Drawing Simple Shapes ☟ &nbsp; &nbsp; &nbsp; 
+  <a href="#">1.0. Coodinate Grid</a> &nbsp; - &nbsp; ☞
+</h4>
 
 <br /><br /><br /><br />
 
