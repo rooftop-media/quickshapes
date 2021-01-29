@@ -1,8 +1,15 @@
-<h3 align="center"> 📐 ☐ QuickShapes Blueprint ☐ 📐 </h3>
+<!--  Page Header  -->
+<h3 align="center">
+  <a href="https://github.com/rooftop-media/shapes#blueprint"> 📐 </a> &nbsp; &nbsp; QuickShapes Blueprint
+</h3>
+
+<br />
+
+<!--  Subtitle -->
 <h4 align="center">
-  ☜ – <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/1_simple_shapes.md">1. Simple Shapes</a>
-  – – – ☟ Step 2: Coordinate Grid ☟ – – – 
-  <a href="#">3. Draw Curves</a> - ☞
+  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/1_0_SoftwarePlanning.md">1.0. Software Planning</a> 
+  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 1.1. Coordinates System ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/1_2_DrawCurves.md">1.2. Drawing Curves</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
