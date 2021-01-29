@@ -3,11 +3,13 @@
   📐 &nbsp; &nbsp; QuickShapes Blueprint
 </h3>
 
+<br />
+
 <!--  Subtitle -->
 <h4 align="center">
-  ☜ &nbsp; - &nbsp; <a href="#">0.0. Overview</a> 
-  &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.1. Drawing Simple Shapes ☟ &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="#">1.0. Coodinate Grid</a> &nbsp; - &nbsp; ☞
+  ☜ &nbsp; - &nbsp; <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/0_1_Programming101.md">0.1. Programming 101</a> 
+  &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.2. Drawing Simple Shapes ☟ &nbsp; &nbsp; - &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/shapes/edit/main/blueprint/0_3_Paradigms.md">1.0. Paradigms</a> &nbsp; - &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
