@@ -4,12 +4,11 @@ A library to draw shapes in the text terminal.
 
 <br /><br />
 
-QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the 📖[User Guide](#user-guide).
+QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the 📖 [User Guide](#user-guide).
 
-- The 📖 User Guide is fo if you're looking to use QuickShapes in your project, but don't need to know the
-technical details of how it work.
+- The 📖 [User Guide](#user-guide) describes how to use QuickShapes in your project.
 
-- The 🗺 Blueprint is a step-by-step tutorial on how to remake QuickShapes.
+- The 🗺 [Blueprint](#blueprint) is a step-by-step tutorial on how to remake QuickShapes.
 
 <br/><br/><br/><br/>
 <br /><br /><br /><br />
