@@ -22,22 +22,21 @@ technical details of how it work.
 The Blueprint's contents:
 
  - Part 0:  Intro
-   - [0.0](#intro). How to Use This Guide.
-   - [0.1](#simple-shapes).  Drawing simple squares and triangles.
+   - [ ] [0.0](#intro). How to Use This Guide.
+   - [ ] [0.1](#101).  Remembering Programming 101.
+   - [ ] [0.2](#simple-shapes).  Drawing Simple Squares and Triangles.
+   - [ ] [0.3](#paradigms).  Paradigm a Dozen... am i right, folks?
 
- - Part 1:  The Procedural Part
-   - [1.1](#coordinates). Setting up a coordinate grid drawing system, draw lines.
-   - [1.2](#curves). Drawing curves.
-   - [1.2](#square). Drawing squares & rectangles in our new system.
-   
-   
-   
-   
-   
-   - [1.3](#circle). Drawing circles & ellipses.
-   - [1.4](#triangle). Drawing triangles.
 
- - Part 2:   Object Oriented
+ - Part 1:  The Procedural Part.
+   - [ ] [1.0](#planning). Software Planning: A Step to Not Skip. 
+   - [ ] [1.1](#coordinates). Setting up a coordinate grid drawing system, draw lines.
+   - [ ] [1.2](#curves). Drawing curves.
+   - [ ] [1.3](#square). Drawing squares & rectangles. 
+   - [ ] [1.4](#circle). Drawing circles & ellipses.
+   - [ ] [1.5](#triangle). Drawing triangles.
+
+ - Part 2:   
    - [2.1](#class). Object Orientation
 
 
