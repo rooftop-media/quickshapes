@@ -71,7 +71,10 @@ Ok here's the other reason I'm making this Blueprint:
 I'm not really sure how this whole "git clone" business works.
 So,  in case i accidentally delete my local copy of this repo,  
 these instructions will let me remake the code from scratch.
-Or if I need to send them to a friend.  It's like a really slow VCS.  
+
+Or like if I need to send QuickShapes to my friend who also doesn't
+understand git clone, I can just link them here, and they can
+remake it.  It's like a really slow [VCS](https://en.wikipedia.org/wiki/Version_control).  
 
 Oh yeah also I don't know about copying and pasting.  
 
