@@ -2,7 +2,15 @@
 
 A library to draw shapes in the text terminal.  
 
-QuickShapes has two sections of docs -- a **User Guide** and a **Blueprint**.
+<br /><br />
+
+QuickShapes has two sections of docs -- a 🗺 [Blueprint](#blueprint) and a 📖[User Guide](#user).
+
+<br/><br/><br/><br/>
+<br /><br /><br /><br />
+
+
+
 
 The Blueprint is a tutorial on how to re-create this library. 
 
@@ -25,6 +33,8 @@ The Blueprint's contents:
 
 <br /><br /><br /><br />
 <br /><br /><br /><br />
+
+
 
 The User Guide is docs on how to use QuickShape as a JS module. 
 
