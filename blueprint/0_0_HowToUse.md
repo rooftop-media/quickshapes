@@ -55,13 +55,14 @@ Here are some recommended options:
 
 <br /><br />
 
-Oh shit that's the bell, we gotta get to [Programming 101](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Programming101.md).
+Oh shit that's the bell, we gotta get to [Programming 101 ☞](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Programming101.md).
 
 
 
 
-<br /><br /><br /><br />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 <i>
 
