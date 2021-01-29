@@ -1,6 +1,6 @@
 <!--  Page Header  -->
 <h3 align="center">
-  [📐](https://github.com/rooftop-media/shapes#blueprint) &nbsp; &nbsp; QuickShapes Blueprint
+  <a href="https://github.com/rooftop-media/shapes#blueprint"> 📐 </a> &nbsp; &nbsp; QuickShapes Blueprint
 </h3>
 
 <br />
