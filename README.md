@@ -6,11 +6,10 @@ A library to draw shapes in the text terminal.
 
 QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the 📖[User Guide](#user-guide).
 
-If you're looking to use QuickShapes in your project, but don't need to know the
-technical details, the 📖 User Guide is for you.
+- 📖 The User Guide is fo if you're looking to use QuickShapes in your project, but don't need to know the
+technical details of how it work.
 
-If you want a step-by-step tutorial on how to remake QuickShapes
-described in a series of well-detailed steps, then you're looking for the 🗺 Blueprint. 
+- The 🗺 Blueprint is a step-by-step tutorial on how to remake QuickShapes.
 
 <br/><br/><br/><br/>
 <br /><br /><br /><br />
@@ -18,7 +17,7 @@ described in a series of well-detailed steps, then you're looking for the 🗺 B
 
 
 
-<div id="blueprint">🗺 The Blueprint </div>
+<h3 id="blueprint">🗺 The Blueprint </h3>
 
 The Blueprint's contents:
 
@@ -27,13 +26,18 @@ The Blueprint's contents:
    - [0.1](#simple-shapes).  Drawing simple squares and triangles.
 
  - Part 1:  The Procedural Part
-   - [1.0](#coordinates). Setting up a coordinate grid drawing system, draw lines.
-   - [1.1](#curves). Drawing curves.
+   - [1.1](#coordinates). Setting up a coordinate grid drawing system, draw lines.
+   - [1.2](#curves). Drawing curves.
    - [1.2](#square). Drawing squares & rectangles in our new system.
+   
+   
+   
+   
+   
    - [1.3](#circle). Drawing circles & ellipses.
    - [1.4](#triangle). Drawing triangles.
 
- - Part 2:  Using Prettier Language
+ - Part 2:   Object Oriented
    - [2.1](#class). Object Orientation
 
 
@@ -42,10 +46,11 @@ The Blueprint's contents:
 
 
 
-<div id="user-guide">The User Guide is docs on how to use QuickShape as a JS module.</div>
+<h3 id="user-guide">📖 The User Guide</h3>
 
 The User Guide's contents:
 
+ - 
 
 
 
