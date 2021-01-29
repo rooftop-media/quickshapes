@@ -2,7 +2,11 @@
 
 A library to draw shapes in the text terminal.  
 
-Sections:
+Info:
+ - How to use *(coming soon)*
+ - Tutorial *(coming soon)*
+
+Docs:
  - Drawing [squares and triangles](#simple-shapes).
  - Setting up a [coordinate system](#coordinates), drawing lines.
  - Drawing ellipses. 
