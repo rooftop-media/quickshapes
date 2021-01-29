@@ -1,15 +1,24 @@
-# 📐 Shapes
+# 📐 QuickShapes
 
 A library to draw shapes in the text terminal.  
 
-Info:
- - How to use *(coming soon)*
- - Tutorial *(coming soon)*
+Here's how it works, step by step:
 
-Docs:
- - Drawing [squares and triangles](#simple-shapes).
- - Setting up a [coordinate system](#coordinates), drawing lines.
- - Drawing ellipses. 
+ - Part 0:  Intro
+    - [Step 1](#simple-shapes).  Drawing simple squares and triangles.
+    - 
+
+ - Part 1:  The Procedural Part
+   - [Step 2](#coordinates). Setting up a coordinate grid drawing system, draw lines.
+   - [Step 3](#curves). Drawing curves.
+   - [Step 4](#square). Drawing squares & rectangles in our new system.
+   - [Step 5](#circle). Drawing circles & ellipses.
+   - [Step 6](#triangle). Drawing triangles.
+
+
+ - Part 2:  Using Prettier Language
+   - [step 7](#class). Object Orientation
+
 
 <br /><br /><br /><br />
 <br /><br /><br /><br />
