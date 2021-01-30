@@ -20,7 +20,7 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 The Blueprint's contents:
 
- - [0. Start Here](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_Version0.md)!
+ - 0. [Start Here](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_Version0.md)!
    - [ ] 0.0. [How to Use This Guide](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_HowToUse.md).
    - [ ] 0.1. [Remembering Programming 101](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Programming101.md).
    - [ ] 0.2. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_SimpleShapes.md).
