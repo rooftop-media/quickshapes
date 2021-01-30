@@ -6,6 +6,7 @@
 
 <!--  Subtitle -->
 <h4 align="center">
+   ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_Version0.md">0. Getting Started</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.0. How to Use This Blueprint ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Programming101.md">0.1. Programming 101</a> &nbsp; &nbsp; ☞
 </h4>
@@ -34,9 +35,8 @@ That means planning, coding, testing, and releasing updated versions.
 
 Feel free to use the Blueprint however you'd like. Obviously.
 
-Here are some recommended options:
-
- - Follow along step-by-step to recreate your own shape-drawing JS tool! 
+ 
+ along step-by-step to recreate your own shape-drawing JS tool! 
  
    You'll need a [computer with nodeJS](https://stackoverflow.com/questions/10475651/how-to-tell-if-node-js-is-installed-or-not).
    A coding background will help, but with a little patience, this could
