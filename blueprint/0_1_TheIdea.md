@@ -23,7 +23,7 @@
 
  <br />
 
-###  Todo List  ( Version 1.0. )
+###  Todo List  ( QuickShape v 1.0. )
 
  - [ ] **1. Explain the idea, plan features.**
  
@@ -80,7 +80,7 @@ QuickShapes is library to draw shapes to the text terminal.
 
 > *You check your todo list again:*
 
-###  Todo List  ( Version 1.0. )
+###  Todo List  ( QuickShape v 1.0. )
 
  - [x] 1. Explain the idea, plan features.
  
