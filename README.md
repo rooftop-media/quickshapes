@@ -9,6 +9,7 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 - The 📖 [User Guide](#user-guide) describes how to use QuickShapes in your project.
 
 - The 🗺 [Blueprint](#blueprint) is a step-by-step tutorial on how to remake QuickShapes.
+  It explores some common patterns in [KitchenWare](https://github.com/rooftop-media/kw) software development. 
 
 <br/><br/><br/><br/>
 <br /><br /><br /><br />
