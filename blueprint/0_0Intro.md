@@ -11,7 +11,7 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Intro  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_TheIdea.md#top">0.0. How to Use This Blueprint</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. How to Use This Blueprint</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
@@ -23,7 +23,11 @@ Hi!  Thanks for reading the QuickShapes Blueprint!
 This series of documents walks you through the process
 of developing a shape-graphing NodeJS library. 
 
+
+
 <br /><br /><br /><br />
+
+
 
 ## How to use the Blueprint
 
