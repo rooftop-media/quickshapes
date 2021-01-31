@@ -23,21 +23,21 @@
 
 
 
-*You find yourself itching to program some software...*
+*You find yourself **itching to program** some software...*
 
-*Something open-source sounds cool.  Something other 
-people might use, maybe, even.  Ideally something
-pretty, but simple -- you are only a novice programmer,
-after all. *
+*It'd be nice to code something other people might use.
+Ideally something **pretty**, but **simple** -- you're only a 
+novice programmer, after all.*
 
-*You remember back to a pretty-but-simple coding exercise
-you did once... *
+*You remember back to a pretty-but-simple coding exercise...*
 
-*Yes... You remember drawing shapes to the terminal screen.
+*Yeah... **Drawing shapes** to the **terminal screen**.
 Using a few for-loops and if-statements, you could make
 some scalable geometry art, out of text!*
 
 *The shapes were kinda like...*
+
+<br/><br/>
 
 A square, of side length 5, made of `*`:
 
