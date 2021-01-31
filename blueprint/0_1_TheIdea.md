@@ -94,5 +94,5 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
  
  <br/><br/>
 
-> *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/DrawSquares.md#title)!*
+> *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title)!*
 
