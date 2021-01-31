@@ -99,7 +99,7 @@ A `hollow-square`, of side length `5`, made of `~`:
 
 > *You find a pen and paper.  Here's what you write:* 
 
-###  QuickShapes Version 1.0. Todo List
+###  Todo List  ( QuickShape v 1.0. )
 
  - [ ] 1. Explain the idea, plan features.
  
