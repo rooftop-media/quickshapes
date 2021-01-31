@@ -22,6 +22,8 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 The Blueprint's contents:
 
+<br />
+
  - Version 0. [Introduction](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title).
  
    - [ ] step 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
@@ -32,43 +34,25 @@ The Blueprint's contents:
    
    - [ ] step 0.4. [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
    
+<br />
 
-
- - Version 1.0. 
- 
-   - [ ] step 1.1. [Software Planning: A Step to Not Skip.](https://github.com/rooftop-media/shapes/blob/main/blueprint/1_0_SoftwarePlanning.md).
+ - Version 1.0. [The MVP](https://github.com/rooftop-media/quickshapes/blob/main/blueprint/1_0_Version1.md).
+    
+   - [ ] step 1.1. [Setting up a coordinate grid drawing system, draw lines](#coordinates).
    
-   - [ ] step 1.2. [Setting up a coordinate grid drawing system, draw lines](#coordinates).
-   
-   - [ ] step 1.3. [Drawing curves & boxes.](#curves).
+   - [ ] step 1.2. [Drawing curves & boxes.](#curves).
       
-   - [ ] step 1.4. [Drawing circles & ellipses](#circle).
+   - [ ] step 1.3. [Drawing circles & ellipses](#circle).
    
-   - [ ] step 1.5. [Drawing triangles](#triangle).
+   - [ ] step 1.4. [Drawing triangles](#triangle).
 
-
+<br />
 
  - Version 2:   
  
    - [ ] step 2.1. [Object Orientation](#class)
 
-<br /><br />
 
-**** *DISCLAIMER about the version / step numbering:* ****  
-
-The steps in the Blueprint are organized by software version.
-That might be misleading, and here's why: 
-
-Each "major" QuickShape version is independently stable -- 
-but each step *between* versions doesn't necessarily result 
-in a stable, usable version of the software. 
-
-If you're managing [software version history](https://en.wikipedia.org/wiki/Software_versioning)
-for a peice of public software, all version updates -- both major and minor --
-should be stable.  That's how version history usually work. 
-
-The type of "in-development" versioning used in here, in the Blueprint,
-could be called [internal project versioning](https://en.wikipedia.org/wiki/Software_versioning#Internal_version_numbers).
 
 
 <br /><br /><br /><br />
