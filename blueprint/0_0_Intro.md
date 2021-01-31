@@ -23,16 +23,26 @@
 
 ###  Background & Motivation.
 
-> *You find yourself **itching to program** some software...*
+> *You find yourself **itching to code** some software...*
 >
-> *It'd be nice to code something other people might use.*  
-> *And ideally, something kinda **flashy**, but kinda**simple** --*  
-> *you admit, you're still a **novice** programmer.*  
+> *It'd be nice to code something **other programmers** might use.* 
 
 <br />
 
-> *You remember back to a coding exercise you did once...*
-> *It was about drawing **shapes** to the **terminal screen**.*
+> *And so, you decide to make a quick NodeJS tool.*
+> 
+> *You'll develop & maintain it on Github, 
+> *and publish it to [npm](https://www.npmjs.com/) so it's easy to find.
+>
+> *A very solid plan so far -- now you just need an idea to code!
+
+<br />
+
+> *Ideally, you'd like to code something **flashy**, but kinda **simple** --*  
+> *you admit, you're still a **novice** programmer.*  
+>
+> *You remember a coding exercise you did once,*  
+> *about drawing **shapes** to the **terminal screen**.*
 >
 > *You remember drawing **squares** and **triangles** to be particularly easy,*   
 > *and you remember making the shapes optionally **hollow**, too.*
