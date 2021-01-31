@@ -58,15 +58,20 @@ QuickShapes is library to draw shapes to the text terminal.
   
 <br/><br/>
   
-> *And you're feeling extra, so you make a table to illustrate the planned features too.*
+> *And you're feeling extra, so you make a **table**, too.*
+> *It lists the QuickShape **functions**.*
 
-> *These will be the **functions** that you'll **export** with the release of QS Version 1.0.*
+<br />
+
+###  Exported Functions ( QS Version 1.0. )
+
+This table describes the [JS functions](https://www.w3schools.com/js/js_functions.asp) that QuickShape defines.
+The "Argument types" column indicates what [JS datatype](https://www.w3schools.com/js/js_datatypes.asp) each argument expects.
  
-
-| Function name                               | Argument types            | Description        | 
-|---------------------------------------------|---------------------------|--------------------| 
-| `draw_square( width, draw_text, filled )`   | int, string, boolean      | Draws a square     | 
-| `draw_triangle( width, draw_text, filled )` | int, string, boolean      | Draws a triangle   | 
+| Function name                               | Argument types            | Description           | 
+|---------------------------------------------|---------------------------|-----------------------| 
+| `draw_square( width, draw_text, filled )`   | number, string, boolean   | Draws a square!       | 
+| `draw_triangle( width, draw_text, filled )` | number, string, boolean   | Draws a triangle!     | 
 
 > *Two functions isn't much, but this is only version 1.0.*
 > *If things go well, you can always add more*
