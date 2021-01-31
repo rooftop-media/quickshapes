@@ -18,8 +18,7 @@
 
 
 
-<br /><br /><br /><br />
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 
 
@@ -31,35 +30,47 @@
 
 ###  Todo List  ( QuickShape v 1.0. )
 
- - [ ] 1. Write out features.
+ - [ ] 1. Write out a feature list.
  
- - [ ] 2. Program functions.
-   - [ ] - `draw_square` function, that draws a square.
-   - [ ] - Customizable square size.
-   - [ ] - Customizable draw text.
-   - [ ] - A "filled" vs. "hollow" mode.
-   - [ ] - Optional printed description, for debugging.
-   
-   - [ ] - `draw_triangle` function, that draws a triangle.
-   - [ ] - Customizable triangle size.
-   - [ ] - Customizable draw text.
-   - [ ] - A "filled" vs. "hollow" mode.
-   - [ ] - Optional printed description, for debugging.
+ - [ ] 2. Program those features.
 
- - [ ] 3. Build a test.
+ - [ ] 3. Build tests.
  
  - [ ] 4. Document, package, & publish.
  
- - [ ] 5. Any revisions
+ - [ ] 5. Any revisions.
+ 
+ 
+ 
+ <br /><br /><br /><br /><br/><br/><br/><br/>
+
+
+ 
+ > *And you dive right in to number 1.*  
+ > *You'd like to get the planning section out of the way.*
+ 
+ ###  Planned Features ( QuickShape v 1.0. )
+ - [ ] `draw_square` function, that draws a square.
+   - [ ] Customizable square size.
+   - [ ] Customizable draw text.
+   - [ ] A "filled" vs. "hollow" mode.
+   - [ ] Optional printed description, for debugging.
+   
+ - [ ] `draw_triangle` function, that draws a triangle.
+   - [ ] Customizable triangle size.
+   - [ ] Customizable draw text.
+   - [ ] A "filled" vs. "hollow" mode.
+   - [ ] Optional printed description, for debugging.
    
 
 
  
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 
   
 > *And you're feeling extra, so you also make a **table**, too.*
-> *It lists the QuickShape **functions**.*
+> *It lists the QuickShape **arguments** along with their **functions**.*
 
 <br />
 
@@ -78,7 +89,9 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 
 
   
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+
 
 > *That's probably good enough for now.*  
 > *You'll go back and add details when you have a coded product.*
@@ -87,11 +100,19 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 
 ###  Todo List  ( QuickShape v 1.0. )
 
- - [x] 1. Explain the idea, plan features.
+ - [x] 1. Write out a feature list.
  
- - [ ] 2. Coding those features.
+ - [ ] 2. Program those features.
+
+ - [ ] 3. Build tests.
+ 
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions.
  
  <br/><br/>
 
 > *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title)!*
 
+
+ <br/><br/><br/><br/><br/><br/><br/><br/>
