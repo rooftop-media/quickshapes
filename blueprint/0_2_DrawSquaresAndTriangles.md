@@ -17,8 +17,14 @@
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 
+> *Your todo list looks like this:*
 
+Todo List ( QuickShape v 1.0. )
+ - [ ] 1. Explain the idea, plan features.
 
+ - [ ] 2. Code those features.
+ 
+ <br /><br />
 
 > *The square should be fairly simple to draw*
 > *if you're okay with the NodeJS basics.*
@@ -102,6 +108,18 @@ process.stdout.write( "\n" );
 
 
 
-You can run this code with NodeJS [from the command line](https://nodejs.dev/learn/run-nodejs-scripts-from-the-command-line).
-You should see the output as described!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
