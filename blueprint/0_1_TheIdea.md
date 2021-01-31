@@ -72,7 +72,7 @@ QuickShapes is library to draw shapes to the text terminal.
   
 <br/><br/><br/><br/>
 
-> *Because this is only version 1.0. , you recognize that
+> *Because this is only version 1.0. , you recognize that*
 > *these planned features will change and evolve.*
 
-> *Okay it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
+> *Okay it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).*
