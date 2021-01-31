@@ -11,7 +11,7 @@
 <h4 align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.1. The Idea  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title">0.2. NodeJS 101</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title">0.2. Drawing Squares</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
@@ -21,7 +21,7 @@
 
 > *You look at your to-do list.  Near the top, it says:*
 
-###  QuickShapes Version 1.0. Todo List
+###  Todo List  ( Version 1.0. )
 
  - [ ] **1. Explain the idea, plan features.**
  
@@ -77,7 +77,7 @@ QuickShapes is library to draw shapes to the text terminal.
 
 > *You check your todo list again:
 
-###  QuickShapes Version 1.0. Todo List
+###  Todo List  ( Version 1.0. )
 
  - [x] 1. Explain the idea, plan features.
  
