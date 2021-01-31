@@ -70,9 +70,10 @@ A `hollow-square`, of side length `5`, made of `~`:
 *Yeah, like that!*
 
 *And so you decide to give it a shot --*
-*you'll write a [NodeJS](https://nodejs.org/) package, of tools to draw customizable shapes.*
+*you'll write a [NodeJS](https://nodejs.org/) package, of **tools** to draw **customizable shapes**.*
 
-*You want it to be a quick project, and it's about shapes, so, you call it QuickShapes.
+*You want it to be a **quick** project, and it's about **shapes**.  
+So, you call it **QuickShapes**.*
 
 
 
