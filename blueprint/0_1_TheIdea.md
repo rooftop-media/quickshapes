@@ -9,7 +9,7 @@
 
 <!--  Subtitle -->
 <h4 align="center">
-   &nbsp; ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
+  &nbsp; &nbsp; &nbsp; &nbsp; ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.1. The Idea  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title">0.2. NodeJS 101</a> &nbsp; &nbsp; ☞
 </h4>
@@ -37,26 +37,39 @@
 
 
 
-
 <br/><br/><br/><br/>
 
 
 > *You decide to write an explanation of your JS idea first,  
 > and then list some of the planned features.*
 
+###  Version 1.0 Description & Features
+
 QuickShapes is library to draw shapes to the text terminal. 
 
-###  Version 1.0. **Planned Features** for shape drawing includes:
+###  Shape drawing features include:
 
- - Choose a triangle or a square. 
+ - Draw a `triangle` or a `square`. 
+   Let's stick with 2 for now.
 
- - Choose height & width. 
+ - Choose a number for `width`. 
+   Sides will be equal for now, too.
 
- - Choose a draw character. 
+ - Choose the text used to draw. 
 
- - Choose to fill or not fill shape.
+ - Choose to fill or outline either shape.
+  
+> *You're feeling extra, so you make a table to illustrate the planned features too.*
+ 
+ | Function name                               | Argument types            | Description        |
+ |=============================================|===========================|====================|
+ | `draw_square( width, draw_text, filled )`   | int, string, boolean      | Draws a square     |
+ | `draw_triangle( width, draw_text, filled )` | int, string, boolean      | Draws a triangle   |
+
   
 <br/><br/><br/><br/>
 
+> *Because this is only version 1.0. , you recognize that
+> *these planned features will change and evolve.*
 
-
+> *Okay it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
