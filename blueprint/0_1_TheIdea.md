@@ -33,7 +33,7 @@
  
  - [ ] 5. Any revisions
 
-> *Nice. 
+> *Nice!* 
 
 
 
@@ -58,7 +58,7 @@ QuickShapes is library to draw shapes to the text terminal.
  - Choose the text used to draw. 
 
  - Choose to fill or outline either shape.
- 
+  
 <br/><br/>
   
 > *And you're feeling extra, so you make a table to illustrate the planned features too.*
