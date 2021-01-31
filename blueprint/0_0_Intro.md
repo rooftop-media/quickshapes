@@ -10,10 +10,10 @@
 <!--  Subtitle -->
 <h4 align="center">
   <!-- Adding extra white space to fill the empty left-hand side... -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
    &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Intro  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. The Idea</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Outline.md#title">0.1. QuickShapes Outline</a> &nbsp; &nbsp; ☞
 </h4>
 
 
