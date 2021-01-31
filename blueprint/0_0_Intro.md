@@ -10,14 +10,17 @@
 <!--  Subtitle -->
 <h4 align="center">
   <!-- Adding extra white space to fill the empty left-hand side... -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
    &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Intro  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. The Idea</a> &nbsp; &nbsp; ☞
 </h4>
 
+
+
 <br /><br /><br /><br />
 <br /><br /><br /><br />
+
 
 
 *You find yourself itching to program some software...*
@@ -87,6 +90,8 @@ A triangle, of side length 4, pointing down and to the left, made of `#`.
 
 <br /><br /><br /><br />
 
+*After a moment of consideration, you decide you're ready to [start step 1](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).* 
 
-
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
