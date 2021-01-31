@@ -24,13 +24,24 @@
 ###  Background & Motivation.
 
 > *You find yourself **itching to program** some software...*
-
+>
 > *It'd be nice to code something other people might use.*
 >
 > *Ideally something **pretty**, but **simple** --*
 > *you admit, you're still a **novice** programmer.*  
 > 
-> *Hm...*
+> *Hm...
+
+> *You remember back to a coding exercise you did once.*
+>
+> *Yeah... It was about **drawing shapes** to the **terminal screen**.*
+>
+> *You remember drawing **squares** and **triangles** to be pretty easy,*  
+> *and you want to add some styling options to both.*
+>
+> *You get out a pen and paper and start writing down your thoughts,*
+> *trying to **outline** the **idea**.*
+
 
 
 
@@ -40,32 +51,32 @@
 
 ###  Initial Outline.
 
-> *You remember back to a pretty-but-simple coding exercise...*
-
-> *Yeah... **Drawing shapes** to the **terminal screen**.  
-> Using a few for-loops and if-statements, you could make
-> some scalable geometry art, out of text!*
-
-> *You can already imagine some simple custom shapes...*
+> *You probably want more shapes than just squares and triangles,*  
+> *but you figure you'll start with those two in version 1.*
+> 
+> *You also want to be able to edit the size and text-makeup.*
+> *And you want an option for filled or hollow shapes.*
+>
+> *You write down some sample output you can imagine...*
 
 <br/><br/>
 
 
+###  Example Output.
 
-
+```
+//  draw_square
 A `square`, of side length `5`, made of `*`:
 
-```
 * * * * * 
 * * * * * 
 * * * * * 
 * * * * * 
 * * * * * 
 ```
-
+```
 A `triangle`, of side length `4`, made of `#`.
 
-```
 # 
 # # 
 # # #
