@@ -82,10 +82,10 @@ A `hollow-square`, of side length `5`, made of `~`:
 <br/><br/>
 
 
-> *Yeah, those would be easy!*
-> *Maybe a little simple, but a good starting place.
+> *Sure, those would be easy!*  
+> *Maybe a little simple, but a good starting place.*
 
-> *And so you decide to give it a shot --*
+> *And so you decide to give it a shot --*  
 > *you'll write a [NodeJS](https://nodejs.org/) package, of **tools** to draw **customizable shapes**.*
 
 > *You want it to be a **quick** project, and it's about **shapes**.  
@@ -97,7 +97,7 @@ A `hollow-square`, of side length `5`, made of `~`:
 
 
 
-> *You find a pen and paper.  Here's what you write:* 
+> *You open your favorite document editor and start a new file:*
 
 ###  Todo List  ( QuickShape v 1.0. )
 
