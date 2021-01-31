@@ -24,10 +24,10 @@
 
 Some quick notes:
 
-- The Blueprint is a step-by-step tutorial on how to remake QuickShapes.
+- The Blueprint is a step-by-step tutorial on how to remake QuickShapes.  
   It starts right here, on this page.  Hey, thanks for reading! :) 
   
-- Some parts of the Blueprint are written in second-person. 
+- Some parts of the Blueprint are written in second-person.  
   Those parts are still important.  Hope you're cool with that.
 
 - The Blueprint introduces some [KitchenWare](https://github.com/rooftop-media/kw) software development patterns.  
@@ -167,32 +167,17 @@ A `hollow triangle`, of side length `6`, made of `@ `.
 
 
 <br/><br/><br/><br/>
-
-
-
-> *You open your favorite document editor and start a new file:*
-
-###  Todo List  ( QuickShape v 1.0. )
-
- - [ ] 1. Explain the idea, plan features.
- 
- - [ ] 2. Coding those features.
- 
- - [ ] 3. Build a test.
- 
- - [ ] 4. Document, package, & publish.
- 
- - [ ] 5. Any revisions
-   
-
-
-
 <br /><br /><br /><br />
+
+
 
 > *After a moment of consideration, you decide you're ready to [start step 1](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).* 
 
+
+
 <br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br />
+
 
 
 **** *DISCLAIMER about the tutorial step numbering:* ****  
