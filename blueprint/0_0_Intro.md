@@ -22,9 +22,20 @@
 
 ### About the 🗺 Blueprint
 
-- The Blueprint is a step-by-step tutorial on how to remake QuickShapes.
+Some quick notes:
 
-  The Blueprint also introduces some [KitchenWare](https://github.com/rooftop-media/kw) software development patterns. 
+- The Blueprint is a step-by-step tutorial on how to remake QuickShapes.
+  It starts right here, on this page.  Hey, thanks for reading! :) 
+  
+- Some parts of the Blueprint are written in second-person. 
+  Those parts are still important.  Hope you're cool with that.
+
+- The Blueprint introduces some [KitchenWare](https://github.com/rooftop-media/kw) software development patterns.  
+  These patterns are described more formally in the [kw dev manual](#).
+  
+- Click the title on any Blueprint page to return to the table of contents.
+  
+  
   
   
   
