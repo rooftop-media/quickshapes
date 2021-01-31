@@ -25,6 +25,8 @@
 
  - [ ] **1. Explain the idea, plan features.**
  
+ <br />
+ 
 > *You decide to try doing that.* 
 
 
@@ -71,5 +73,17 @@ QuickShapes is library to draw shapes to the text terminal.
 <br/><br/><br/><br/>
 
 > *That's probably good enough for now.*  
+> *You'll go back and add details when you have a coded product.*
 
-> *You'll go back and detail these docs later, but for now,  it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).*
+> *You check your todo list again:
+
+###  QuickShapes Version 1.0. Todo List
+
+ - [x] 1. Explain the idea, plan features.
+ 
+ - [ ] 2. Coding those features.
+ 
+ <br/><br/>
+
+> *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).*
+
