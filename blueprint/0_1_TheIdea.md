@@ -19,7 +19,7 @@
 
 
 
-*You look at your to-do list.  It says:*
+> *You look at your to-do list.  It says:*
 
 ###  QuickShapes Version 1.0. Todo List
 
@@ -33,7 +33,7 @@
  
  - [ ] 5. Any revisions
 
-*Nice. 
+> *Nice. 
 
 
 
@@ -41,8 +41,8 @@
 <br/><br/><br/><br/>
 
 
-*You decide to write an explanation of your JS idea first,  
-and then list some of the planned features.*
+> *You decide to write an explanation of your JS idea first,  
+> and then list some of the planned features.*
 
 QuickShapes is library to draw shapes to the text terminal. 
 
