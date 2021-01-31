@@ -26,12 +26,12 @@
 *You find yourself **itching to program** some software...*
 
 *It'd be nice to code something other people might use.
-Ideally something **pretty**, but **simple** -- you're only a 
-novice programmer, after all.*
+Ideally something **pretty**, but **simple** --  
+you admit, you're still a novice programmer.*
 
 *You remember back to a pretty-but-simple coding exercise...*
 
-*Yeah... **Drawing shapes** to the **terminal screen**.
+*Yeah... **Drawing shapes** to the **terminal screen**.  
 Using a few for-loops and if-statements, you could make
 some scalable geometry art, out of text!*
 
@@ -39,7 +39,7 @@ some scalable geometry art, out of text!*
 
 <br/><br/>
 
-A square, of side length 5, made of `*`:
+A `square`, of side length `5`, made of `*`:
 
 ```
 * * * * * 
@@ -49,13 +49,22 @@ A square, of side length 5, made of `*`:
 * * * * * 
 ```
 
-A triangle, of side length 4, pointing down and to the left, made of `#`.
+A `triangle`, of side length `4`, made of `#`.
 
 ```
 # 
 # # 
 # # #
 # # # #
+```
+A `hollow-square`, of side length `5`, made of `~`:
+
+```
+~ ~ ~ ~ ~
+~       ~
+~       ~
+~       ~
+~ ~ ~ ~ ~
 ```
 
 *Yeah, like that!*
