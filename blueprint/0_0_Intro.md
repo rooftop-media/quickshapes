@@ -13,41 +13,74 @@
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Intro  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. How to Use This Blueprint</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. The Idea</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
 
-Hi!  Thanks for reading the QuickShapes Blueprint! 
+*You find yourself itching to program some software...*
 
-This series of documents walks you through the process
-of developing a shape-graphing NodeJS library. 
+*Something open-source sounds cool.  Something other 
+people might use, maybe, even.  Ideally something
+pretty, but simple -- you are only a novice programmer,
+after all. *
+
+*You remember back to a pretty-but-simple coding exercise
+you did once... *
+
+*Yes... You remember drawing shapes to the terminal screen.
+Using a few for-loops and if-statements, you could make
+some scalable geometry art, out of text!*
+
+*The shapes were kinda like...*
+
+A square, of side length 5, made of `*`:
+
+```
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+```
+
+A triangle, of side length 4, pointing down and to the left, made of `#`.
+
+```
+# 
+# # 
+# # #
+# # # #
+```
+
+*Yeah, like that!*
+
+*And so you decide to give it a shot --*
+*you'll write a [NodeJS](https://nodejs.org/) package, of tools to draw customizable shapes.*
+
+*You want it to be a quick project, and it's about shapes, so, you call it QuickShapes.
 
 
 
-<br /><br /><br /><br />
+<br/><br/><br/><br/>
 
 
 
-## How to use the Blueprint
+*You find a pen and paper.  Here's what you write: * 
 
+###  QuickShapes Version 1.0. Todo List
 
-The QuickShape *software* goal is to provide tools to
-draw shapes.  That's what you'll be making.
-
-The QuickShape *Blueprints* goal is to study and document 
-the production process of a NodeJS module.  The process includes:
-
- - Planning the code's features.
+ - [ ] 1. Explain the idea, plan features.
  
- - Coding those features.
+ - [ ] 2. Coding those features.
  
- - Testing them out. 
+ - [ ] 3. Build a test.
  
- - Revising code when things aren't working. 
-   ( The Blueprints build 4 stable versions of QuickShape. )
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions
    
 
 
@@ -56,22 +89,4 @@ the production process of a NodeJS module.  The process includes:
 
 
 
-## How to use the Blueprint
 
-Feel free to use the Blueprint however you'd like, obviously. 
-But here are some suggestions we had in mind:
-
- - Read or skim through, if any part interests you. 
-
- - Follow each step to recreate your own shape-drawing JS tool! 
- 
-   You'll need a [computer with nodeJS](https://stackoverflow.com/questions/10475651/how-to-tell-if-node-js-is-installed-or-not).
-   A coding background will help, but with a little patience, this could
-   be a decent introduction to Javascript. 
-   
-   ( And if that makes it sound boring, just skim til part 1.0. )
-    
- - Use the Blueprint as a lesson plan, or something.
-   Teaching pals to code? Nice.  
-   
-<br /><br /><br /><br />
