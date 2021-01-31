@@ -12,54 +12,53 @@
   <!--  Add nbsp padding, to better center the options...  -->
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
-  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.1. QuickShapes Outline  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
+  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.1. Outlining QuickShapes  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquaresAndTriangles.md#title">0.2. Draw Squares & Triangles</a> &nbsp; &nbsp; ☞
 </h4>
 
+
+
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
 
 
-> *You look at your to-do list. The first two lines say:*
+## Outlining QuickShapes
 
- <br />
+> *You decide to write down a To-Do list, detailing your plans for Version 1.0.*
+>
+> *Later on, you'll adapt these plans into a [user guide](#).
 
 ###  Todo List  ( QuickShape v 1.0. )
 
- - [ ] **1. Explain the idea, plan features.**
+ - [ ] 1. Write out features.
  
- <br /> <br />
+ - [ ] 2. Program functions.
+   - [ ] - `draw_square` function, that draws a square.
+   - [ ] - Customizable square size.
+   - [ ] - Customizable draw text.
+   - [ ] - A "filled" vs. "hollow" mode.
+   - [ ] - Optional printed description, for debugging.
+   
+   - [ ] - `draw_triangle` function, that draws a triangle.
+   - [ ] - Customizable triangle size.
+   - [ ] - Customizable draw text.
+   - [ ] - A "filled" vs. "hollow" mode.
+   - [ ] - Optional printed description, for debugging.
+
+ - [ ] 3. Build a test.
+ 
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions
+   
+
 
  
-> *You decide to try doing that.* 
-
-
 <br/><br/><br/><br/>
 
-
-
-###  Version 1.0 Description & Features
-
-QuickShapes is library to draw shapes to the text terminal. 
-
-###  Shape drawing features include:
-
- - Draw a `triangle` or a `square`.  
-   *Just two for now.*
-
- - Choose a number for `width`.  
-   *Sides will be equal for now, too.*
-
- - Choose the text used to draw.  
-   *Default: "`* `"
-
- - Choose to fill or not fill the shape.  
-   *Non-filled shapes are just outlined.*
   
-<br/><br/>
-  
-> *And you're feeling extra, so you make a **table**, too.*
+> *And you're feeling extra, so you also make a **table**, too.*
 > *It lists the QuickShape **functions**.*
 
 <br />
