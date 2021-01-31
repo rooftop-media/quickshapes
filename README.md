@@ -20,7 +20,7 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 The Blueprint's contents:
 
- - 0. [Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)!
+ - 0. [Introduction](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title).
  
    - [ ] step 0.0. [Explaining the Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
    
