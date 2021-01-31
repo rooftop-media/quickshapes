@@ -23,7 +23,7 @@
 
 ###  QuickShapes Version 1.0. Todo List
 
- - [ ] 1. Explain the idea, plan features.
+ - [ ] **1. Explain the idea, plan features.**
  
  - [ ] 2. Coding those features.
  
@@ -33,15 +33,20 @@
  
  - [ ] 5. Any revisions
 
-<br/><br/>
+*Nice. 
 
-*Nice. You're ready to write about your idea.*
 
-*You take out another piece of paper, and write some details:*
 
-###  QuickShapes Version 1 – **Features**
 
- - A function to make shapes!
+<br/><br/><br/><br/>
+
+
+*You decide to write an explanation of your JS idea first,  
+and then list some of the planned features.*
+
+QuickShapes is library to draw shapes to the text terminal. 
+
+###  Version 1.0. **Planned Features** for shape drawing includes:
 
  - Choose a triangle or a square. 
 
@@ -50,3 +55,8 @@
  - Choose a draw character. 
 
  - Choose to fill or not fill shape.
+  
+<br/><br/><br/><br/>
+
+
+
