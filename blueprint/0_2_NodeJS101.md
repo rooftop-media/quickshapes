@@ -1,11 +1,11 @@
-<br id="top"/><br />
-
-<!--  Page Header  -->
+<!--  title  -->
 <h3 align="center" id="title">
-  <a href="https://github.com/rooftop-media/shapes#blueprint"> 📐 </a> &nbsp; &nbsp; QuickShapes Blueprint
+  🗺 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📐 &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/shapes#blueprint">QuickShapes Blueprint</a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; 📐 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🗺
 </h3>
 
-<br />
+<br /><br />
 
 <!--  Subtitle -->
 <h4 align="center">
