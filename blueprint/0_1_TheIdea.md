@@ -19,13 +19,16 @@
 
 
 
-> *You look at your to-do list.  Near the top, it says:*
+> *You look at your to-do list. The first two lines say:*
+
+ <br />
 
 ###  Todo List  ( Version 1.0. )
 
  - [ ] **1. Explain the idea, plan features.**
  
- <br />
+ <br /> <br />
+
  
 > *You decide to try doing that.* 
 
@@ -57,7 +60,7 @@ QuickShapes is library to draw shapes to the text terminal.
   
 > *And you're feeling extra, so you make a table to illustrate the planned features too.*
 
-> *These will be the **functions** that you'll **export** with the release of QS Version 1.0.
+> *These will be the **functions** that you'll **export** with the release of QS Version 1.0.*
  
 
 | Function name                               | Argument types            | Description        | 
@@ -65,7 +68,7 @@ QuickShapes is library to draw shapes to the text terminal.
 | `draw_square( width, draw_text, filled )`   | int, string, boolean      | Draws a square     | 
 | `draw_triangle( width, draw_text, filled )` | int, string, boolean      | Draws a triangle   | 
 
-> *Two functions isn't much, but this is only version 1.0.  
+> *Two functions isn't much, but this is only version 1.0.*
 > *If things go well, you can always add more*
 
 
@@ -75,7 +78,7 @@ QuickShapes is library to draw shapes to the text terminal.
 > *That's probably good enough for now.*  
 > *You'll go back and add details when you have a coded product.*
 
-> *You check your todo list again:
+> *You check your todo list again:*
 
 ###  Todo List  ( Version 1.0. )
 
@@ -85,5 +88,5 @@ QuickShapes is library to draw shapes to the text terminal.
  
  <br/><br/>
 
-> *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).*
+> *First one down! And finally, it's time to [actually code](https://github.com/rooftop-media/shapes/blob/main/blueprint/DrawSquares.md#title)!*
 
