@@ -25,23 +25,17 @@
 
 > *You find yourself **itching to program** some software...*
 >
-> *It'd be nice to code something other people might use.*
->
-> *Ideally something **pretty**, but **simple** --*
+> *It'd be nice to code something other people might use.*  
+> *And ideally, something kinda **flashy**, but kinda**simple** --*  
 > *you admit, you're still a **novice** programmer.*  
 
 <br />
 
-> *You remember back to a coding exercise you did once.*
+> *You remember back to a coding exercise you did once...*
+> *It was about drawing **shapes** to the **terminal screen**.*
 >
-> *Yeah... It was about **drawing shapes** to the **terminal screen**.*
->
-> *You remember drawing **squares** and **triangles** to be pretty easy,*  
-> *and you want to add some styling options to both.*
->
-> *You get out a pen and paper and start writing down your thoughts,*
-> *trying to **outline** the **idea**.*
-
+> *You remember drawing **squares** and **triangles** to be particularly easy,*   
+> *and you remember making the shapes optionally **hollow**, too.*
 
 
 
@@ -51,52 +45,87 @@
 
 ###  Initial Outline.
 
-> *You probably want more shapes than just squares and triangles,*  
-> *but you figure you'll start with those two in version 1.*
-> 
-> *You also want to be able to edit the size and text-makeup.*
-> *And you want an option for filled or hollow shapes.*
+> *Eventually you'll want more than squares and triangles,*  
+> *but that seems like a good starting point for version 1.0.*
 >
-> *You write down some sample output you can imagine...*
+> *You write down some simple examples you can imagine...*
 
 <br/><br/>
 
 
-###  Example Output.
+###  Example Use:
+
+```javascript
+
+draw_square( 4, "* ", true);
+
+/*** Resulting output:
+A `filled square`, of size `4`, made of `* `:
+
+* * * * 
+* * * * 
+* * * * 
+* * * * 
+
+*/
 
 ```
-//  draw_square
-A `square`, of side length `5`, made of `*`:
 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
+```javascript
+
+draw_square( 5, "* ", false);
+
+/*** Resulting output:
+A `hollow square`, of size `5`, made of `$ `:
+
+$ $ $ $ $ 
+$       $ 
+$       $ 
+$       $ 
+$ $ $ $ $ 
+
+*/
+
 ```
-```
-A `triangle`, of side length `4`, made of `#`.
+
+```javascript
+
+draw_triangle( 4, "# ", false);
+
+/*** Resulting output:
+A `solid triangle`, of side length `4`, made of `# `.
 
 # 
 # # 
 # # #
-# # # #
-```
-A `hollow-square`, of side length `5`, made of `~`:
+# # # # 
+
+*/
 
 ```
-~ ~ ~ ~ ~
-~       ~
-~       ~
-~       ~
-~ ~ ~ ~ ~
+
+```javascript
+
+draw_triangle( 6, "@ ", false);
+
+/*** Resulting output:
+A `hollow triangle`, of side length `6`, made of `@ `.
+
+@ 
+@ @
+@   @
+@     @
+@       @
+@ @ @ @ @ @
+
+*/
+
 ```
 
 <br/><br/>
 
 
-> *Sure, those would be easy!*  
-> *Maybe a little simple, but a good starting place.*
+> *Sure, those would be very doable! A good starting place.*
 
 > *And so you decide to give it a shot --*  
 > *you'll write a [NodeJS](https://nodejs.org/) package, of **tools** to draw **customizable shapes**.*
