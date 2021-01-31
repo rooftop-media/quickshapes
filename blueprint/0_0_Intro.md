@@ -17,13 +17,11 @@
 </h4>
 
 
-
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
 
-
-###  Motivation.
+###  Background & Motivation.
 
 > *You find yourself **itching to program** some software...*
 
@@ -32,8 +30,10 @@
 > you admit, you're still a novice programmer.*
 
 
+<br /><br /><br /><br />
 
-###  Outline.
+
+###  Initial Outline.
 
 > *You remember back to a pretty-but-simple coding exercise...*
 
