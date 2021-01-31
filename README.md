@@ -24,11 +24,11 @@ The Blueprint's contents:
  
    - [ ] step 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
    
-   - [ ] step 0.2. [Drawing Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
+   - [ ] step 0.2. [Draw Squares & Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquaresAndTriangles.md#title).
    
-   - [ ] step 0.3. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_SimpleShapes.md#title).
+   - [ ] step 0.3. [Export & Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
    
-   - [ ] step 0.4. [Packaging & Publishing](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md#title).
+   - [ ] step 0.4. [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
    
 
 
