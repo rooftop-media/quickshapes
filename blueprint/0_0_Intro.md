@@ -25,9 +25,9 @@
 
 > *You find yourself **itching to program** some software...*
 
-> *It'd be nice to code something other people might use.
-> Ideally something **pretty**, but **simple** --  
-> you admit, you're still a novice programmer.*  
+> *It'd be nice to code something other people might use.  
+> Ideally something **pretty**, but **simple** --
+> you admit, you're still a **novice** programmer.*  
 
 > *Ideally, the software idea would be something both
 > pretty and relatively simple.*
