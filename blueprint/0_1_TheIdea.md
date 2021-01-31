@@ -58,13 +58,16 @@ QuickShapes is library to draw shapes to the text terminal.
  - Choose the text used to draw. 
 
  - Choose to fill or outline either shape.
-  
-> *You're feeling extra, so you make a table to illustrate the planned features too.*
  
- | Function name                               | Argument types            | Description        |
- |=============================================|===========================|====================|
- | `draw_square( width, draw_text, filled )`   | int, string, boolean      | Draws a square     |
- | `draw_triangle( width, draw_text, filled )` | int, string, boolean      | Draws a triangle   |
+<br/><br/>
+  
+> *And you're feeling extra, so you make a table to illustrate the planned features too.*
+ 
+
+| Function name                               | Argument types            | Description        | 
+|---------------------------------------------|---------------------------|--------------------| 
+| `draw_square( width, draw_text, filled )`   | int, string, boolean      | Draws a square     | 
+| `draw_triangle( width, draw_text, filled )` | int, string, boolean      | Draws a triangle   | 
 
   
 <br/><br/><br/><br/>
