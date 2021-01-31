@@ -8,7 +8,7 @@
 <h4 align="center">
    ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_Version0.md">0. Getting Started</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.0. How to Use This Blueprint ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Programming101.md">0.1. Programming 101</a> &nbsp; &nbsp; ☞
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_NodeJS101.md">0.1. NodeJS 101</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
@@ -21,11 +21,14 @@
 
 Hi!  Thanks for reading the QuickShapes blueprint! 
 
+
 The *software* goal is to display shapes graphed nicely. 
 
-But the goal of the blueprints is to study and document the 
+But the goal of the *blueprints* is to study and document the 
 production process of a NodeJS module.  
-That means planning, coding, testing, and releasing updated versions.
+
+That means notes on planning, coding, testing, and releasing 
+updated versions.
 
 
 
