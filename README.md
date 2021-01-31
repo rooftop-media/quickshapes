@@ -20,28 +20,26 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 The Blueprint's contents:
 
- - 0. [Introduction](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title).
+ - Version 0. [Introduction](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title).
  
-   - [ ] step 0.0. [Explaining the Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
+   - [ ] step 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
    
-   - [ ] step 0.1. [NodeJS 101](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
+   - [ ] step 0.2. [Drawing Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
    
-   - [ ] step 0.2. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_SimpleShapes.md#title).
+   - [ ] step 0.3. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_SimpleShapes.md#title).
    
-   - [ ] step 0.3. [Packaging & Publishing](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md#title).
+   - [ ] step 0.4. [Packaging & Publishing](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md#title).
    
 
 
- - Version 1.
+ - Version 1.0. 
  
-   - [ ] step 1.0. [Software Planning: A Step to Not Skip.](https://github.com/rooftop-media/shapes/blob/main/blueprint/1_0_SoftwarePlanning.md).
+   - [ ] step 1.1. [Software Planning: A Step to Not Skip.](https://github.com/rooftop-media/shapes/blob/main/blueprint/1_0_SoftwarePlanning.md).
    
-   - [ ] step 1.1. [Setting up a coordinate grid drawing system, draw lines](#coordinates).
+   - [ ] step 1.2. [Setting up a coordinate grid drawing system, draw lines](#coordinates).
    
-   - [ ] step 1.2. [Drawing curves](#curves).
-   
-   - [ ] step 1.3. [Drawing squares & rectangles](#square). 
-   
+   - [ ] step 1.3. [Drawing curves & boxes.](#curves).
+      
    - [ ] step 1.4. [Drawing circles & ellipses](#circle).
    
    - [ ] step 1.5. [Drawing triangles](#triangle).
