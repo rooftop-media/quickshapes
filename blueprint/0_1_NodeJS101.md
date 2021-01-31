@@ -12,13 +12,18 @@
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_SimpleShapes.md">0.2. Simple Shapes</a> &nbsp; &nbsp; ☞
 </h4>
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
 
 
 
 Let's warm up by reviewing some NodeJS scripting tools we'll be using.
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
 
 First up... variables!! 
 
@@ -30,21 +35,39 @@ console.log( my_var );
 
   //  output:  "Hello world"
 ```
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-Here's some output stuff...
 
-```
+
+
+Here's the NodeJS terminal output you'll be using ...
+
+```javascript
 //  Note two ways to log things to the console... will be important later!
-process.stdout.write( "Keep " ); //  These DON'T add a "line break" when logging.  
-process.stdout.write( "calm " ); //   ( UNLIKE console.log, which DOES. )
-console.log( "and carry on." );    
 
-  //  output:  Keep calm and carry on.
+//  console.log  will add an extra line when logging.
+console.log( "Keep calm " );
+console.log( "and " );
+console.log( "carry on." );
+//  output:  > Keep calm
+//           > and
+//           > carry on.
+//           > ▓
+
+
+process.stdout.write( "Keep " ); 
+process.stdout.write( "calm " ); 
+process.stdout.write( "and carry on." );    
+//  output:  > Keep calm and carry on.▓
 
 ```
+`console.log` docs [here](https://nodejs.org/api/console.html#console_console_log_data_args).
+`process.stdout.write` docs [here](https://nodejs.org/api/process.html#process_process_stdout).
 
 <br /><br /><br /><br />
+
+
+
 
 We'll use [for-loops](https://www.w3schools.com/js/js_loop_for.asp) to iterate through arrays. 
 
@@ -79,8 +102,11 @@ process.stdout.write("\n");
 
 ```
 
+<br /><br /><br /><br />
+
+
+
+
 You can run this code with NodeJS [from the command line](https://nodejs.dev/learn/run-nodejs-scripts-from-the-command-line).
 You should see the output as described!
-
-If the code is unclear, this might be a good 
 
