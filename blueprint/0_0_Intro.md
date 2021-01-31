@@ -44,9 +44,12 @@
 > Using a few for-loops and if-statements, you could make
 > some scalable geometry art, out of text!*
 
-> *The shapes were kinda like...*
+> *You can already imagine some simple custom shapes...*
 
 <br/><br/>
+
+
+
 
 A `square`, of side length `5`, made of `*`:
 
@@ -76,7 +79,11 @@ A `hollow-square`, of side length `5`, made of `~`:
 ~ ~ ~ ~ ~
 ```
 
-> *Yeah, like that!*
+<br/><br/>
+
+
+> *Yeah, those would be easy!*
+> *Maybe a little simple, but a good starting place.
 
 > *And so you decide to give it a shot --*
 > *you'll write a [NodeJS](https://nodejs.org/) package, of **tools** to draw **customizable shapes**.*
