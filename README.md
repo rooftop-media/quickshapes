@@ -52,7 +52,8 @@ The Blueprint's contents:
 
 <br /><br />
 
-**** *DISCLAIMER about the version / step numbering:* ****
+**** *DISCLAIMER about the version / step numbering:* ****  
+
 The steps in the Blueprint are organized by software version.
 That might be misleading, and here's why: 
 
@@ -60,11 +61,11 @@ Each "major" QuickShape version is independently stable --
 but each step *between* versions doesn't necessarily result 
 in a stable, usable version of the software. 
 
-If you're doing [software versioning](https://en.wikipedia.org/wiki/Software_versioning)
-for public software, all version updates -- both major and minor --  
-should be stable.  That's how versions usually work. 
+If you're managing [software version history](https://en.wikipedia.org/wiki/Software_versioning)
+for a peice of public software, all version updates -- both major and minor --
+should be stable.  That's how version history usually work. 
 
-The type of "in-development" versioning used in the Blueprint
+The type of "in-development" versioning used in here, in the Blueprint,
 could be called [internal project versioning](https://en.wikipedia.org/wiki/Software_versioning#Internal_version_numbers).
 
 
@@ -77,7 +78,7 @@ could be called [internal project versioning](https://en.wikipedia.org/wiki/Soft
 
 The User Guide's contents:
 
- - 
+ - ...
 
 
 
