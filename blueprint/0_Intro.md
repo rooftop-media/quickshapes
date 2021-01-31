@@ -17,14 +17,23 @@
 <br /><br /><br /><br />
 
 
+The library we'll be making is pretty simple.  
+It prints shapes to your console.
 
-```
+This guide will tell you how to make it!
 
-********
-********
-********
-********
 
+```javascript
+
+draw_square(8, 4);
+/*  output:
+********
+********
+********
+********
+*/
+
+draw_triangle(5, 5)
 *****
 ****
 ***
