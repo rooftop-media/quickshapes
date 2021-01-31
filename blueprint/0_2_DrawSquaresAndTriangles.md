@@ -10,8 +10,8 @@
 <!--  Subtitle -->
 <h4 align="center">
   ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title">0.1. The Idea</a> 
-  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.2. Draw Squares☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_DrawTriangles.md#title">0.3. Draw Triangles</a> &nbsp; &nbsp; ☞
+  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.2. Draw Squares & Triangles ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title">0.3. Export and Test </a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
