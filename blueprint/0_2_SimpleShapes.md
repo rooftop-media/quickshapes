@@ -1,5 +1,5 @@
 <!--  Page Header  -->
-<h3 align="center">
+<h3 align="center" id="title">
   <a href="https://github.com/rooftop-media/shapes#blueprint"> 📐 </a> &nbsp; &nbsp; QuickShapes Blueprint
 </h3>
 
@@ -7,9 +7,9 @@
 
 <!--  Subtitle -->
 <h4 align="center">
-  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_NodeJS101.md">0.1. NodeJS 101</a> 
-  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.2. Drawing Simple Shapes ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
-  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_Paradigms.md">0.3. Paradigms & Patterns</a> &nbsp; &nbsp; ☞
+  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title">0.2. NodeJS 101</a> 
+  &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ Step 0.3. Drawing Simple Shapes ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md#title">0.4. Paradigms & Patterns</a> &nbsp; &nbsp; ☞
 </h4>
 
 <br /><br /><br /><br />
