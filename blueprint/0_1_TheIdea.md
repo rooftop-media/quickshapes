@@ -9,7 +9,9 @@
 
 <!--  Subtitle -->
 <h4 align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
+  <!--  Add nbsp padding, to better center the options...  -->
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title">0. Intro</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0.1. The Idea  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title">0.2. Drawing Squares</a> &nbsp; &nbsp; ☞
 </h4>
@@ -31,8 +33,6 @@
 
  
 > *You decide to try doing that.* 
-> *You write the following d
-
 
 
 <br/><br/><br/><br/>
