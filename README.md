@@ -20,15 +20,15 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 The Blueprint's contents:
 
- - 0. [Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md)!
+ - 0. [Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)!
  
-   - [ ] step 0.0. [How to Use This Guide](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md).
+   - [ ] step 0.0. [Explaining the Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
    
-   - [ ] step 0.1. [NodeJS 101](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md).
+   - [ ] step 0.1. [NodeJS 101](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_NodeJS101.md#title).
    
-   - [ ] step 0.2. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_SimpleShapes.md).
+   - [ ] step 0.2. [Drawing Simple Squares and Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_SimpleShapes.md#title).
    
-   - [ ] step 0.3. [Patterns & Paradigms](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md).
+   - [ ] step 0.3. [Packaging & Publishing](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Paradigms.md#title).
    
 
 
