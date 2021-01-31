@@ -31,10 +31,10 @@
 
 > *And so, you decide to make a quick NodeJS tool.*
 > 
-> *You'll develop & maintain it on Github, 
-> *and publish it to [npm](https://www.npmjs.com/) so it's easy to find.
+> *You'll develop & maintain it on Github,*
+> *and publish it to [npm](https://www.npmjs.com/) so it's easy to find.*
 >
-> *A very solid plan so far -- now you just need an idea to code!
+> *A very solid plan so far -- now you just need an idea to code!*
 
 <br />
 
@@ -56,7 +56,7 @@
 ###  Initial Outline.
 
 > *Eventually you'll want more than squares and triangles,*  
-> *but that seems like a good starting point for version 1.0.*
+> *but those 2 shapes seems like a good starting point for version 1.0.*
 >
 > *You write down some simple examples you can imagine...*
 
