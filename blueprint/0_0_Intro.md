@@ -29,8 +29,8 @@
 >
 > *Ideally something **pretty**, but **simple** --*
 > *you admit, you're still a **novice** programmer.*  
-> 
-> *Hm...
+
+<br />
 
 > *You remember back to a coding exercise you did once.*
 >
