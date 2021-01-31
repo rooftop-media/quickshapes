@@ -10,8 +10,8 @@
 <!--  Subtitle -->
 <h4 align="center">
   <!-- Adding extra white space to fill the empty left-hand side... -->
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
    &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Intro  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Outline.md#title">0.1. QuickShapes Outline</a> &nbsp; &nbsp; ☞
 </h4>
@@ -20,6 +20,16 @@
 <br /><br /><br /><br />
 <br /><br /><br /><br />
 
+### About the 🗺 Blueprint
+
+- The Blueprint is a step-by-step tutorial on how to remake QuickShapes.
+
+  The Blueprint also introduces some [KitchenWare](https://github.com/rooftop-media/kw) software development patterns. 
+  
+  
+  
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ###  Background & Motivation.
 
@@ -172,4 +182,21 @@ A `hollow triangle`, of side length `6`, made of `@ `.
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br />
+
+
+**** *DISCLAIMER about the tutorial step numbering:* ****  
+
+The steps in the Blueprint are organized by *software version number*.
+That might be misleading, and here's why: 
+
+Each "major" QuickShape version is independently stable -- 
+but each step *between* versions doesn't necessarily result 
+in a stable, usable version of the software. 
+
+If you're managing [software version history](https://en.wikipedia.org/wiki/Software_versioning)
+for a peice of public software, all version updates -- both major and minor --
+should be stable.  That's how version history usually work. 
+
+The type of "in-development" versioning used in here, in the Blueprint,
+could be called [internal project versioning](https://en.wikipedia.org/wiki/Software_versioning#Internal_version_numbers).
 
