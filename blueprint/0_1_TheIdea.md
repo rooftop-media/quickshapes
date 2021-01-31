@@ -44,16 +44,16 @@ QuickShapes is library to draw shapes to the text terminal.
 
 ###  Shape drawing features include:
 
- - Draw a `triangle` or a `square`. 
+ - Draw a `triangle` or a `square`.  
    *Just two for now.*
 
- - Choose a number for `width`. 
+ - Choose a number for `width`.  
    *Sides will be equal for now, too.*
 
- - Choose the text used to draw. 
-   *Default: "`* ""
+ - Choose the text used to draw.  
+   *Default: "`* `"
 
- - Choose to fill or not fill the shape.
+ - Choose to fill or not fill the shape.  
    *Non-filled shapes are just outlined.*
   
 <br/><br/>
