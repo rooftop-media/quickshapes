@@ -20,7 +20,9 @@
 
 > *You review your to-do list.*  
 >
-> *You're now on step 2.*
+> *You're now on step 2!*
+
+<br/><br/>
 
 ###  📐 Todo List  ( QuickShape v 1.0. )
 
