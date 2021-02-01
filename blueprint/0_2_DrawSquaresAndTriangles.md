@@ -14,15 +14,25 @@
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title">0.3. Export and Test </a> &nbsp; &nbsp; ☞ &nbsp; 
 </h4>
 
+
+
+
 <br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
 
 ##  Drawing Squares and Triangles.
 
-> *You review your to-do list.*  
+> *You review the to-do list you just wrote.*  
 >
 > *You're now on step 2!*
 
-<br/><br/>
+
+
+<br/><br/><br/>
+
+
 
 ###  📐 Todo List  ( QuickShape v 1.0. )
 
@@ -40,12 +50,22 @@
  <br /><br />
  
  
-> *Nice.  You'll tackle features one section at a time.*
->
-> *You'll start by coding the `draw_square` section.*
+> *Nice!  You're ready to tackle the Feature List.*
 
+ ###  📐 Planned Features ( QuickShape v 1.0. )
+ 
+ [ Filled square features ](#square1)
  - [ ] `draw_square` function, that draws a square.
    - [ ] Customizable square size.
+   - [ ] Customizable draw text. 
+   
+ [ Hollow square features ](#square2)
+   - [ ] A "filled" vs. "hollow" mode.
+   - [ ] Optional printed description, for debugging.
+   
+ [ Triangle features ](#triangle1)
+ - [ ] `draw_triangle` function, that draws a triangle.
+   - [ ] Customizable triangle size.
    - [ ] Customizable draw text.
    - [ ] A "filled" vs. "hollow" mode.
    - [ ] Optional printed description, for debugging.
@@ -56,7 +76,7 @@
 
 
 
-### 📐 Drawing a square
+<h3 id="square1"> 📐 Drawing a square </h3>
 
 Output a square of text characters, using two nested for-loops. 
 
@@ -91,8 +111,10 @@ function draw_square( size, draw_material ) {
    - [ ] Optional printed description, for debugging.
    
  
- <br/><br/>
+ <br/><br/><br/><br/>
+
  
+ <h3 id="square2">📐 Draw a hollow square</h3>
  
  Next, use conditional logic to check if a given space  
  is an "edge" space, and draw "non-filled" squares that way.
@@ -149,6 +171,47 @@ function draw_square( size, draw_material, filled ) {
    - [x] Customizable draw text.
    - [x] A "filled" vs. "hollow" mode.
    - [x] Optional printed description, for debugging.
+
+
+
+ <br/><br/><br/><br/>
+ 
+ 
+ 
+ <h3 id="triangle1"> 📐 Drawing a triangle </h3>
+ 
+ Output a square of text characters, using two nested for-loops. 
+
+```javascript
+
+function draw_triangle( size, draw_material, filled ) {
+
+    /**  For each line in height...     */
+    for ( var line_count = 0; line_count < size; line_count++ ) {
+
+        /**  For each character in a line...     */
+        for ( var char_count = 0; char_count < size; char_count++ ) {
+
+            /**  Check if we're passed the diagonal...    */
+            if ( char_count <= line_count ) {
+                process.stdout.write("* ");
+            }
+            else {
+                process.stdout.write("  ");
+            }
+        }
+
+        /**  Break after each line.    */
+        process.stdout.write("\n");
+
+    }
+
+    /**  Log the triangle's details.    */
+    console.log( "A _triangle_, of size _" + size + "_ , made of _" + draw_material + "_ .\n" );
+
+}
+
+```
 
 
 
