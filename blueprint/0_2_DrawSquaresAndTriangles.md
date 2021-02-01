@@ -40,7 +40,7 @@
  
  - [ ] 2. Program those features.
 
- - [ ] 3. Build tests.
+ - [ ] 3. Export functions, write tests.
  
  - [ ] 4. Document, package, & publish.
  
@@ -81,6 +81,8 @@
 Output a square of text characters, using two nested for-loops. 
 
 ```javascript
+//  quickshapes / draw.js
+//  Functions to draw shapes to the terminal.
 
 function draw_square( size, draw_material ) {
 
@@ -122,6 +124,8 @@ function draw_square( size, draw_material ) {
  At the end of the function, add the description.
  
 ```javascript
+//  quickshapes / draw.js
+//  Functions to draw shapes to the terminal.
 
 function draw_square( size, draw_material, filled ) {
 
@@ -183,6 +187,12 @@ function draw_square( size, draw_material, filled ) {
  Output a square of text characters, using two nested for-loops. 
 
 ```javascript
+//  quickshapes / draw.js
+//  Functions to draw shapes to the terminal.
+
+function draw_square( size, draw_material ) {
+    /*  draw_square code here.      */
+}
 
 function draw_triangle( size, draw_material, filled ) {
 
@@ -213,11 +223,35 @@ function draw_triangle( size, draw_material, filled ) {
 
 ```
 
+ <br/><br/><br/><br/> <br/><br/><br/><br/>
+ <br/><br/><br/><br/> <br/><br/><br/><br/>
+ 
+ 
+
+> *Look at the todo list again...*
+
+<br/>
+
+###  📐 Todo List  ( QuickShape v 1.0. )
+
+ - [x] 1. Write out a feature list.
+ 
+ - [x] 2. Program those features.
+
+ - [ ] 3. Export functions, write tests.
+ 
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions.
 
 
+<br/>
+
+> *It's time to [write some tests!](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title)!
 
 
-
+ <br/><br/><br/><br/> <br/><br/><br/><br/>
+ <br/><br/><br/><br/> <br/><br/><br/><br/>
 
 
 
