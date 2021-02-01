@@ -26,7 +26,9 @@
 
 > *You decide to write down a To-Do list, detailing your plans for Version 1.0.*
 >
-> *Later on, you'll adapt these plans into a [user guide](#).
+> *Later on, you'll adapt these plans into a [user guide](#).*
+
+<br/><br/>
 
 ###  Todo List  ( QuickShape v 1.0. )
 
@@ -46,8 +48,12 @@
 
 
  
- > *And you dive right in to number 1.*  
- > *You'd like to get the planning section out of the way.*
+ > *You then complete #1 by writing out a feature list.*  
+ > *( You'd like to get the planning section out of the way. )*
+ >
+ > *You end up dividing the features into two sections.
+ 
+  <br/><br/>
  
  ###  Planned Features ( QuickShape v 1.0. )
  - [ ] `draw_square` function, that draws a square.
@@ -69,10 +75,10 @@
 
 
   
-> *And you're feeling extra, so you also make a **table**, too.*
-> *It lists the QuickShape **arguments** along with their **functions**.*
+> *And you're feeling completionist, so you also make a **table**, too.*
+> *It lists the QuickShape **functions** more clearly.*
 
-<br />
+<br/><br/>
 
 ###  Exported Functions ( QS Version 1.0. )
 
@@ -84,8 +90,11 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 | `draw_square( width, draw_text, filled )`   | number, string, boolean   | Draws a square!       | 
 | `draw_triangle( width, draw_text, filled )` | number, string, boolean   | Draws a triangle!     | 
 
+<br/>
+
 > *Two functions isn't much, but this is only version 1.0.*
-> *If things go well, you can always add more*
+>
+> *If things go well, you'll add more shapes.*
 
 
   
@@ -93,7 +102,7 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 
 
 
-> *That's probably good enough for now.*  
+> *That's probably enough planning for now.*  
 > *You'll go back and add details when you have a coded product.*
 
 > *You check your todo list again:*
