@@ -10,8 +10,6 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 - The 🗺 [Blueprint](#blueprint) is a step-by-step tutorial on how to remake QuickShapes.
 
-  The Blueprint also introduces some [KitchenWare](https://github.com/rooftop-media/kw) software development patterns. 
-
 <br/><br/><br/><br/>
 <br /><br /><br /><br />
 
@@ -24,15 +22,17 @@ The Blueprint's contents:
 
 <br />
 
- - Version 0. [Introduction](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title).
+- [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)
+
+- 0. The Path to Version 1.0..
  
-   - [ ] step 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
+  - 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
    
-   - [ ] step 0.2. [Draw Squares & Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquaresAndTriangles.md#title).
+  - 0.2. [Draw Squares & Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquaresAndTriangles.md#title).
    
-   - [ ] step 0.3. [Export & Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
+  - 0.3. [Export & Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
    
-   - [ ] step 0.4. [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
+  - 0.4. [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
    
 <br />
 
