@@ -25,6 +25,8 @@
 > *Next up: you want to [export](https://nodejs.dev/learn/expose-functionality-from-a-nodejs-file-using-exports) your functions.*  
 > *Then you'll write a `test.js` file, to show how they can be imported and used!*
 
+> *This step should be nice & short, you think.*
+
 
 <br/><br/>
 
@@ -43,6 +45,66 @@
  
  
  
+ <br/><br/><br/><br/>
+
+ 
+###  Exporting Functions
+ 
+> *First, you delete any tests in `quickshapes/draw.js*  
+> *You'll rewrite them in `test.js`.*
+> 
+> *Then you export your two functions. Tada! Exported!*
+
+
+```javascript
+//  quickshapes / draw.js
+//  Functions to draw shapes to the terminal.
+
+module.exports.draw_square = function draw_square( size, draw_material, filled ) {
+  /*   draw_square code here.     */
+}
+
+module.exports.draw_triangle = function draw_triangle( size, draw_material, filled ) {
+  /*   draw_triangle code here.   */
+}
+ 
+```
+
+<br/><br/><br/><br/>
+
+
+###  Importing & Testing
+
+> *You open a new file: `quickshapes/test.js`
+
+
+```javascript
+//  quickshapes / test.js
+//  Test the functions in QuickShape v1.0.                                                                                      
+
+var QuickShape = require("./draw.js");
+
+
+//  Drawing a square:                                                                                                           
+QuickShape.draw_square( 5, "* ", true );
+QuickShape.draw_square( 6, "# ", false );
+
+
+
+
+//  Drawing a triangle:                                                                                                         
+QuickShape.draw_triangle( 5, "* ", true );
+
+
+ 
+```
+ 
+ 
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+
+
  
  
  
