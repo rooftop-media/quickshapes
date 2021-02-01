@@ -75,7 +75,10 @@ module.exports.draw_triangle = function draw_triangle( size, draw_material, fill
 
 ###  Importing & Testing
 
-> *You open a new file: `quickshapes/test.js`
+> *You open a new file: `quickshapes/test.js`*
+>
+> *You start by testing each function twice,*
+> *to see if the imports worked.*
 
 
 ```javascript
@@ -90,14 +93,16 @@ QuickShape.draw_square( 5, "* ", true );
 QuickShape.draw_square( 6, "# ", false );
 
 
-
-
 //  Drawing a triangle:                                                                                                         
 QuickShape.draw_triangle( 5, "* ", true );
+QuickShape.draw_triangle( 6, "* ", false );
 
 
- 
 ```
+
+
+<br/><br/><br/><br/>
+
  
  
 <br/><br/><br/><br/><br/><br/><br/><br/>
