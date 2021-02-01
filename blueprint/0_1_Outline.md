@@ -36,7 +36,7 @@
  
  - [ ] 2. Program those features.
 
- - [ ] 3. Build tests.
+ - [ ] 3. Export functions, write tests.
  
  - [ ] 4. Document, package, & publish.
  
@@ -113,7 +113,7 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
  
  - [ ] 2. Program those features.
 
- - [ ] 3. Build tests.
+ - [ ] 3. Export functions, write tests.
  
  - [ ] 4. Document, package, & publish.
  
