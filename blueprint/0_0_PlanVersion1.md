@@ -11,7 +11,7 @@
 <h4 align="center">
   <!--  Add nbsp padding, to better center the options...  -->
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/_1_Intro.md#title">-1. Intro</a>
+  ☜ &nbsp; &nbsp; <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/_Intro.md#title">Intro</a>
   &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; ☟ 0. Planning QuickShapes v 1.0.  ☟ &nbsp; &nbsp; - &nbsp; &nbsp; - &nbsp; &nbsp; 
   <a href="https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title">0.1. Draw Squares</a> &nbsp; &nbsp; ☞
 </h4>
