@@ -55,6 +55,7 @@
   <br/><br/>
  
  ###  📐 Planned Features ( QuickShape v 1.0. )
+ 
  - [ ] `draw_square` function, that draws a square.
    - [ ] Customizable square size.
    - [ ] Customizable draw text.
