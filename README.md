@@ -22,11 +22,11 @@ The Blueprint's contents:
 
 <br />
 
-- &nbsp; [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)
+- -1. [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/_1_Intro.md#title)
 
-- 0. [Planning Version 1.0](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_PlanVersion1.md#title)
+- 0. [Planning Version 1.0](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_PlanVersion1.md#title)
  
-  - 0.1. [Draw Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title)
+  - 0.1. [Draw Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title)
    
   - 0.2. [Draw Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawTriangles.md#title).
    
