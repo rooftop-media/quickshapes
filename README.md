@@ -22,7 +22,7 @@ The Blueprint's contents:
 
 <br />
 
-- -1. [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/_1_Intro.md#title)
+- &nbsp; -1. [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/_1_Intro.md#title)
 
 - 0. [Planning Version 1.0](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_PlanVersion1.md#title)
  
