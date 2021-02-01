@@ -22,13 +22,13 @@ The Blueprint's contents:
 
 <br />
 
-- [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)
+- &nbsp; [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_Intro.md#title)
 
-- 0. The Path to Version 1.0..
+- 0. [Planning Version 1.0](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_PlanVersion1.md#title)
  
-  - 0.1. [The Idea](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).
+  - 0.1. [Draw Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquares.md#title)
    
-  - 0.2. [Draw Squares & Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawSquaresAndTriangles.md#title).
+  - 0.2. [Draw Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawTriangles.md#title).
    
   - 0.3. [Export & Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
    
