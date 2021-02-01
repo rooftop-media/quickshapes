@@ -162,7 +162,7 @@ A `hollow triangle`, of side length `6`, made of `@ `.
 
 
 
-> *After a moment of consideration, you decide you're ready to [start step 1](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_TheIdea.md#title).* 
+> *After a moment of consideration, you decide you're ready to [start step 1](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_Outline.md#title).* 
 
 
 
