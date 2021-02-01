@@ -16,101 +16,137 @@
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
+##  Drawing Squares and Triangles.
 
-> *Your todo list looks like this:*
+> *You review your to-do list.*  
+>
+> *You're now on step 2.*
 
-Todo List ( QuickShape v 1.0. )
- - [ ] 1. Explain the idea, plan features.
+###  📐 Todo List  ( QuickShape v 1.0. )
 
- - [ ] 2. Code those features.
+ - [x] 1. Write out a feature list.
+ 
+ - [ ] 2. Program those features.
+
+ - [ ] 3. Build tests.
+ 
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions.
+ 
  
  <br /><br />
+ 
+ 
+> *Nice.  You'll tackle features one section at a time.*
+>
+> *You'll start by coding the `draw_square` section.*
 
-> *The square should be fairly simple to draw*
-> *if you're okay with the NodeJS basics.*
+ - [ ] `draw_square` function, that draws a square.
+   - [ ] Customizable square size.
+   - [ ] Customizable draw text.
+   - [ ] A "filled" vs. "hollow" mode.
+   - [ ] Optional printed description, for debugging.
 
-> *You decide to take it step by step...*
+
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 
 
+### 📐 Drawing a square
 
-> *To make sure NodeJS is working, you write & run Hello World.*
-
-```javascript
-
-//  Assign our string to a new variable:
-var my_var = "Hello world!! :)";
-
-//  Log the variable's value to the terminal:
-console.log( my_var );  
-
-//  output:  > Hello world!! :)
-```
-
-<br /><br /><br /><br /><br /><br /><br /><br />
-
-
-
-> *You then delete that all, and try out a for-loop:*
+Output a square of text characters, using two nested for-loops. 
 
 ```javascript
 
-//  Iterate through numbers 0 through 3...
-for ( var i = 0; i < 5; i++ ) {
-  console.log( i );
+function draw_square( size, draw_material ) {
+
+    /**  For each line in height...     */
+    for ( var line_count = 0; line_count < size; line_count++ ) {
+
+        /**  For each character in a line...     */
+        for ( var char_count = 0; char_count < size; char_count++ ) {
+
+            /**  Draw text!  This will make a filled square.   */
+            process.stdout.write( draw_material );
+
+        }
+
+        /**  Add a line break after each line.    */
+        process.stdout.write("\n");
+
+    }
+
 }
 
-//  output:  > 0
-//           > 1
-//           > 2
-//           > 3
-//           > 4
 ```
 
-> *The for-loop makes sense, but you don't*
-> *want the numbers to each print on a new line.*
-
-> *You remember that NodeJS has a different*
-> *terminal logging method for logging without*
-> *breaking lines.*
-
+ - [x] `draw_square` function, that draws a square.
+   - [x] Customizable square size.
+   - [x] Customizable draw text.
+   - [ ] A "filled" vs. "hollow" mode.
+   - [ ] Optional printed description, for debugging.
+   
+ 
+ <br/><br/>
+ 
+ 
+ Next, use conditional logic to check if a given space  
+ is an "edge" space, and draw "non-filled" squares that way.
+ 
+ At the end of the function, add the description.
+ 
 ```javascript
 
-//  Iterate through numbers 0 through 10...
-for ( var i = 0; i < 10; i++ ) {
-  process.stdout.write( i );
-}
-process.stdout.write( "\n" );
+function draw_square( size, draw_material, filled ) {
 
-//  output:  > 0123456789
+    /**  For each line in height...               */
+    for ( var line_count = 0; line_count < size; line_count++ ) {
+
+        /**  For each character in a line...              */
+        for ( var char_count = 0; char_count < size; char_count++ ) {
+
+            //  Conditional logic for filled vs not filled...
+
+            /**  If no fill and not an edge, leave blank...    */
+            if ( !filled && line_count != 0 && line_count != (size-1) && char_count != 0 && char_count != (size-1) ) {
+                process.stdout.write( "  " );
+            }
+
+            /**  Otherwise, draw!                              */
+            else {
+                process.stdout.write( draw_material );
+            }
+
+        }
+
+        /**  Add a line break after each line.           */
+        process.stdout.write("\n");
+
+    }
+
+    // Log the square's details:
+    
+    /**  Describe the "filled" status, in the shape name.    */
+    var shape_name = "filled square";
+    if ( !filled )
+        shape_name = "hollow square";
+
+    /**  Log the description.                                 */
+    process.stdout.write( "A _" + shape_name );
+    process.stdout.write( "_, of size _" + size );
+    process.stdout.write( "_, made of _" + draw_material + "_ .\n\n" );
+
+}
+
 ```
 
-> *Nice, now the output is all on one line.*
-
-> *You log a "\\n" at the end, to tell the terminal to add a "newline", aka a line break.*
-
-
-
-<br /><br />
-
-> *You note the docs on these two terminal logging methods,*  
-> *in case their subtle difference ever comes up again...*
-
-`console.log` docs [here](https://nodejs.org/api/console.html#console_console_log_data_args).
-`process.stdout.write` docs [here](https://nodejs.org/api/process.html#process_process_stdout).
-
-<br /><br /><br /><br />
-
-
-
-
-
-
-
-
-
+ - [x] `draw_square` function, that draws a square.
+   - [x] Customizable square size.
+   - [x] Customizable draw text.
+   - [x] A "filled" vs. "hollow" mode.
+   - [x] Optional printed description, for debugging.
 
 
 
