@@ -24,13 +24,13 @@
 
 ## Outlining QuickShapes
 
-> *You decide to write down a To-Do list, detailing your plans for Version 1.0.*
+> *You decide to write down a To-Do list, detailing your plans for QuickShapes v 1.0.*
 >
 > *Later on, you'll adapt these plans into a [user guide](#).*
 
 <br/><br/>
 
-###  Todo List  ( QuickShape v 1.0. )
+###  📐 Todo List  ( QuickShape v 1.0. )
 
  - [ ] 1. Write out a feature list.
  
@@ -54,7 +54,7 @@
  
   <br/><br/>
  
- ###  Planned Features ( QuickShape v 1.0. )
+ ###  📐 Planned Features ( QuickShape v 1.0. )
  - [ ] `draw_square` function, that draws a square.
    - [ ] Customizable square size.
    - [ ] Customizable draw text.
@@ -79,7 +79,7 @@
 
 <br/><br/>
 
-###  Exported Functions ( QS Version 1.0. )
+###  📐 Exported Functions ( QuickShape v 1.0. )
 
 This table describes the [JS functions](https://www.w3schools.com/js/js_functions.asp) that QuickShape defines.
 The "Argument types" column indicates what [JS datatype](https://www.w3schools.com/js/js_datatypes.asp) each argument expects.
@@ -93,7 +93,7 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 
 > *Two functions isn't much, but this is only version 1.0.*
 >
-> *If things go well, you'll add more shapes.*
+> *If things go well, you'll add more shapes!*
 
 
   
@@ -106,7 +106,7 @@ The "Argument types" column indicates what [JS datatype](https://www.w3schools.c
 
 > *You check your todo list again:*
 
-###  Todo List  ( QuickShape v 1.0. )
+###  📐 Todo List  ( QuickShape v 1.0. )
 
  - [x] 1. Write out a feature list.
  
