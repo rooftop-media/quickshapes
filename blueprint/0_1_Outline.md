@@ -48,10 +48,9 @@
 
 
  
- > *You then complete #1 by writing out a feature list.*  
- > *( You'd like to get the planning section out of the way. )*
+ > *You then complete #1, by writing out the feature list.*  
  >
- > *You end up dividing the features into two sections.
+ > *( You'd like to get the planning section out of the way. )*
  
   <br/><br/>
  
@@ -75,7 +74,7 @@
 
 
   
-> *And you're feeling completionist, so you also make a **table**, too.*
+> *And you're feeling completionist, so you also make a **table**, too.*  
 > *It lists the QuickShape **functions** more clearly.*
 
 <br/><br/>
