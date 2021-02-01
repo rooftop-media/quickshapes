@@ -18,6 +18,31 @@
 
 
 
-## Writing a test file
+##  Export and Test Your Code
 
-> *
+> *You peek back at the todo list.*  
+>
+> *Next up: you want to [export](https://nodejs.dev/learn/expose-functionality-from-a-nodejs-file-using-exports) your functions.*  
+> *Then you'll write a `test.js` file, to show how they can be imported and used!*
+
+
+<br/><br/>
+
+
+###  📐 Todo List  ( QuickShape v 1.0. )
+
+ - [x] 1. Write out a feature list.
+ 
+ - [x] 2. Program those features.
+
+ - [ ] 3. Export & test.
+ 
+ - [ ] 4. Document, package, & publish.
+ 
+ - [ ] 5. Any revisions.
+ 
+ 
+ 
+ 
+ 
+ 
