@@ -4,14 +4,15 @@
 var QuickShape = require("./shapes.js");
 
 
+console.log("\n Testing QuickShapes v 1.0.\n\n" );
 
 //  Drawing a square:
-QuickShape.draw_square( 5, "* ", true );
-QuickShape.draw_square( 6, "# ", false );
+QuickShape.solid_square( 5, "* " );
+QuickShape.hollow_square( 6, "# " );
 
 
 
 
 //  Drawing a triangle:
-QuickShape.draw_triangle( 5, "* ", true );
-QuickShape.draw_triangle( 6, "* ", false );
+QuickShape.solid_triangle( 5, "* " );
+QuickShape.hollow_triangle( 6, "* " );
