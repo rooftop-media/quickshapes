@@ -16,42 +16,75 @@ QuickShapes has two sections of docs -- the 🗺 [Blueprint](#blueprint) and the
 
 
 
-<h3 id="blueprint">🗺 The Blueprint </h3>
+<h3 id="blueprint">🗺 QuickShape Blueprint Table of Contents</h3>
 
-The Blueprint's contents:
+The QS Blueprint is part of a larger collection of [KW Blueprints](https://github.com/rooftop-media/blueprints).
+
+<br /><br />
+
+- [**Intro**](https://github.com/rooftop-media/shapes/blob/main/blueprint/_Intro.md#title)
 
 <br />
 
-- &nbsp; -1. [Blueprints Intro](https://github.com/rooftop-media/shapes/blob/main/blueprint/_1_Intro.md#title)
+- [**Developing version 1.0**](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_PlanVersion1.md#title):
 
-- 0. [Planning Version 1.0](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_0_PlanVersion1.md#title)
- 
-  - 0.1. [Draw Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title)
+  Plan:
+   - Outline idea.
+   - Write requirements.
+   - Plan architecture.
    
-  - 0.2. [Draw Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawTriangles.md#title).
+  Code:
+   -  [Draw Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title).
+   -  [Draw Hollow Squares](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title).
+   -  [Draw Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_1_DrawSquares.md#title).
+   -  [Draw Hollow Triangles](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_2_DrawTriangles.md#title).
    
-  - 0.3. [Export & Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
+  Test:
+   -  [Export](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
+   -  [Test](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_3_ExportAndTest.md#title).
    
-  - 0.4. [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
-   
-<br />
+  Publish:
+   - Writing user docs.
+   - [Publishing the Package](https://github.com/rooftop-media/shapes/blob/main/blueprint/0_4_Publishing.md#title).
 
- - Version 1.0. [The MVP](https://github.com/rooftop-media/quickshapes/blob/main/blueprint/1_0_Version1.md).
+   
+<br /><br />
+
+- [**Developing version 2.0**](https://github.com/rooftop-media/quickshapes/blob/main/blueprint/1_0_Version1.md):
     
-   - [ ] step 1.1. [Setting up a coordinate grid drawing system, draw lines](#coordinates).
+   Plan:
+    - Outline restructure.
+    - Rewrite requirements.
+    - Plan architecture.
+    
+   Code:
+    - [Set up a coordinate system](#coordinates), then [draw lines](#).
+    - [Draw curves & waves](#curves).
+    - [[Draw circles & ellipses](#circle).
+    - [Drawing triangles](#triangle).
    
-   - [ ] step 1.2. [Drawing curves & boxes.](#curves).
-      
-   - [ ] step 1.3. [Drawing circles & ellipses](#circle).
+   Test:
+    - Test
    
-   - [ ] step 1.4. [Drawing triangles](#triangle).
+   Publish:
+   - Update docs.
+   - Republish!
 
-<br />
+<br /><br />
 
- - Version 2:   
+- [**Developing version 3.0**](https://github.com/rooftop-media/quickshapes/blob/main/blueprint/1_0_Version1.md):
  
-   - [ ] step 2.1. [Object Orientation](#class)
-
+   Plan:
+    - Outline changes.
+    - Rewrite requirements.
+    - Plan architecture.
+    
+   Code:
+   - [Set up a shape manager]().
+   
+   Publish:
+    - Update docs.
+    - Republish!
 
 
 
