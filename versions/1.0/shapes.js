@@ -4,9 +4,9 @@
 
 //  private function to log shape details.
 function log_shape( name, size, draw_material ) {
-    process.stdout.write( "Shape name: \u001b[1m" + name + "\u001b[0m  " );
-    process.stdout.write( "Size: \u001b[1m" + size + "\u001b[0m  " );
-    process.stdout.write( "Material: \u001b[1m" + draw_material + "\u001b[0m \n\n" );
+    process.stdout.write( " Shape name: \u001b[1m" + name + "\u001b[0m  \n" );
+    process.stdout.write( " Size: \u001b[1m" + size + "\u001b[0m  \n" );
+    process.stdout.write( " Material: \u001b[1m" + draw_material + "\u001b[0m \n\n" );
 }
 
 
