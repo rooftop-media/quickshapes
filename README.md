@@ -1,15 +1,18 @@
-# 📐 QuickShapes
 
-A library to draw shapes in the text terminal.  
+<br /><br /><br /><br />
 
-<br /><br />
+<h1 align="center"> 📐 &nbsp; QuickShapes &nbsp; 📐 </h1>
 
-QuickShapes has two sections of docs -- the 🗺 [Blueprint](https://github.com/rooftop-media/quickshapes/wiki/intro)
-and the 📖 [User Guide](#user-guide).
+<h3 align="center">  
+  <a href="https://github.com/rooftop-media/blueprints/blob/main/kw/quickshapes/code-guide.md">Code Guide</a> &nbsp; &nbsp; | &nbsp; &nbsp; 
+  Repo &nbsp; &nbsp; | &nbsp; &nbsp; 
+  <a href="https://github.com/rooftop-media/blueprints/blob/main/user-guide/quickshapes/user-guide.md">User Guide</a>
+</h3>
 
-- The 📖 [User Guide](#user-guide) describes how to use QuickShapes in your project.
+<br /><br /><br /><br />
+<br /><br /><br /><br />
 
-- The 🗺 [Blueprint](https://github.com/rooftop-media/quickshapes/wiki/intro) is a step-by-step tutorial on how to remake QuickShapes.
+Quickshapes is a library to draw shapes to the text terminal!
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/><br/>
